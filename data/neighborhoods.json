@@ -1,0 +1,562 @@
+[
+  {
+    "name": "Downtown Heights",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10001",
+    "coordinates": {
+      "latitude": 40.7505,
+      "longitude": -73.9934
+    },
+    "demographics": {
+      "totalPopulation": 8500,
+      "medianAge": 32,
+      "medianIncome": 85000,
+      "educationLevel": "Bachelors",
+      "familyHouseholds": 1200
+    },
+    "safety": {
+      "crimeRate": 15.2,
+      "safetyRating": 8.5,
+      "policeStations": 2
+    },
+    "housing": {
+      "medianHomePrice": 750000,
+      "medianRent": 2800,
+      "homeOwnershipRate": 45
+    },
+    "education": {
+      "schoolRating": 8.2,
+      "schoolsNearby": 5,
+      "universitiesNearby": 3
+    },
+    "transportation": {
+      "publicTransitScore": 9.5,
+      "walkabilityScore": 9.0,
+      "bikeScore": 8.5
+    },
+    "amenities": {
+      "restaurants": 45,
+      "groceryStores": 8,
+      "parks": 3,
+      "hospitals": 2,
+      "shoppingCenters": 4
+    },
+    "lifestyle": {
+      "nightlifeScore": 9.0,
+      "familyFriendlyScore": 6.5,
+      "diversityScore": 8.8
+    },
+    "costOfLiving": {
+      "overallIndex": 185,
+      "groceryIndex": 120,
+      "housingIndex": 250,
+      "utilitiesIndex": 110
+    },
+    "description": "A vibrant urban neighborhood with excellent public transportation, diverse dining options, and a lively nightlife scene. Perfect for young professionals and urban enthusiasts."
+  },
+  {
+    "name": "Riverside Gardens",
+    "city": "Austin",
+    "state": "TX",
+    "zipCode": "78701",
+    "coordinates": {
+      "latitude": 30.2672,
+      "longitude": -97.7431
+    },
+    "demographics": {
+      "totalPopulation": 6200,
+      "medianAge": 35,
+      "medianIncome": 78000,
+      "educationLevel": "Bachelors",
+      "familyHouseholds": 950
+    },
+    "safety": {
+      "crimeRate": 12.8,
+      "safetyRating": 8.8,
+      "policeStations": 1
+    },
+    "housing": {
+      "medianHomePrice": 520000,
+      "medianRent": 2200,
+      "homeOwnershipRate": 55
+    },
+    "education": {
+      "schoolRating": 8.5,
+      "schoolsNearby": 4,
+      "universitiesNearby": 2
+    },
+    "transportation": {
+      "publicTransitScore": 7.5,
+      "walkabilityScore": 8.0,
+      "bikeScore": 9.0
+    },
+    "amenities": {
+      "restaurants": 38,
+      "groceryStores": 6,
+      "parks": 4,
+      "hospitals": 1,
+      "shoppingCenters": 3
+    },
+    "lifestyle": {
+      "nightlifeScore": 7.5,
+      "familyFriendlyScore": 8.0,
+      "diversityScore": 7.5
+    },
+    "costOfLiving": {
+      "overallIndex": 145,
+      "groceryIndex": 105,
+      "housingIndex": 180,
+      "utilitiesIndex": 95
+    },
+    "description": "A family-friendly neighborhood with excellent schools, beautiful parks, and a strong sense of community. Great for families and outdoor enthusiasts."
+  },
+  {
+    "name": "Tech Valley",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipCode": "94105",
+    "coordinates": {
+      "latitude": 37.7749,
+      "longitude": -122.4194
+    },
+    "demographics": {
+      "totalPopulation": 7200,
+      "medianAge": 29,
+      "medianIncome": 120000,
+      "educationLevel": "Graduate",
+      "familyHouseholds": 800
+    },
+    "safety": {
+      "crimeRate": 18.5,
+      "safetyRating": 7.2,
+      "policeStations": 2
+    },
+    "housing": {
+      "medianHomePrice": 1200000,
+      "medianRent": 3800,
+      "homeOwnershipRate": 35
+    },
+    "education": {
+      "schoolRating": 8.8,
+      "schoolsNearby": 3,
+      "universitiesNearby": 4
+    },
+    "transportation": {
+      "publicTransitScore": 9.0,
+      "walkabilityScore": 9.5,
+      "bikeScore": 9.2
+    },
+    "amenities": {
+      "restaurants": 52,
+      "groceryStores": 7,
+      "parks": 2,
+      "hospitals": 3,
+      "shoppingCenters": 5
+    },
+    "lifestyle": {
+      "nightlifeScore": 8.5,
+      "familyFriendlyScore": 5.5,
+      "diversityScore": 9.2
+    },
+    "costOfLiving": {
+      "overallIndex": 250,
+      "groceryIndex": 140,
+      "housingIndex": 350,
+      "utilitiesIndex": 120
+    },
+    "description": "A tech-focused neighborhood with high-income professionals, excellent public transportation, and diverse cultural amenities. Ideal for tech workers and urban professionals."
+  },
+  {
+    "name": "Suburban Haven",
+    "city": "Chicago",
+    "state": "IL",
+    "zipCode": "60614",
+    "coordinates": {
+      "latitude": 41.8781,
+      "longitude": -87.6298
+    },
+    "demographics": {
+      "totalPopulation": 9800,
+      "medianAge": 42,
+      "medianIncome": 95000,
+      "educationLevel": "Bachelors",
+      "familyHouseholds": 1800
+    },
+    "safety": {
+      "crimeRate": 8.5,
+      "safetyRating": 9.2,
+      "policeStations": 1
+    },
+    "housing": {
+      "medianHomePrice": 680000,
+      "medianRent": 2400,
+      "homeOwnershipRate": 70
+    },
+    "education": {
+      "schoolRating": 9.0,
+      "schoolsNearby": 6,
+      "universitiesNearby": 2
+    },
+    "transportation": {
+      "publicTransitScore": 8.0,
+      "walkabilityScore": 7.5,
+      "bikeScore": 7.0
+    },
+    "amenities": {
+      "restaurants": 28,
+      "groceryStores": 5,
+      "parks": 6,
+      "hospitals": 2,
+      "shoppingCenters": 3
+    },
+    "lifestyle": {
+      "nightlifeScore": 5.5,
+      "familyFriendlyScore": 9.5,
+      "diversityScore": 6.5
+    },
+    "costOfLiving": {
+      "overallIndex": 165,
+      "groceryIndex": 115,
+      "housingIndex": 200,
+      "utilitiesIndex": 100
+    },
+    "description": "A quiet, family-oriented neighborhood with excellent schools, beautiful parks, and a strong sense of community. Perfect for families seeking a safe, suburban lifestyle."
+  },
+  {
+    "name": "Arts District",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90012",
+    "coordinates": {
+      "latitude": 34.0522,
+      "longitude": -118.2437
+    },
+    "demographics": {
+      "totalPopulation": 5800,
+      "medianAge": 31,
+      "medianIncome": 72000,
+      "educationLevel": "Bachelors",
+      "familyHouseholds": 750
+    },
+    "safety": {
+      "crimeRate": 22.5,
+      "safetyRating": 6.8,
+      "policeStations": 2
+    },
+    "housing": {
+      "medianHomePrice": 580000,
+      "medianRent": 2100,
+      "homeOwnershipRate": 40
+    },
+    "education": {
+      "schoolRating": 7.5,
+      "schoolsNearby": 3,
+      "universitiesNearby": 2
+    },
+    "transportation": {
+      "publicTransitScore": 7.0,
+      "walkabilityScore": 8.5,
+      "bikeScore": 8.0
+    },
+    "amenities": {
+      "restaurants": 42,
+      "groceryStores": 4,
+      "parks": 2,
+      "hospitals": 1,
+      "shoppingCenters": 3
+    },
+    "lifestyle": {
+      "nightlifeScore": 8.8,
+      "familyFriendlyScore": 4.5,
+      "diversityScore": 9.5
+    },
+    "costOfLiving": {
+      "overallIndex": 180,
+      "groceryIndex": 125,
+      "housingIndex": 220,
+      "utilitiesIndex": 110
+    },
+    "description": "A creative, vibrant neighborhood with a thriving arts scene, diverse cultural amenities, and a young, artistic population. Great for creatives and cultural enthusiasts."
+  },
+  {
+    "name": "University Heights",
+    "city": "Boston",
+    "state": "MA",
+    "zipCode": "02115",
+    "coordinates": {
+      "latitude": 42.3601,
+      "longitude": -71.0589
+    },
+    "demographics": {
+      "totalPopulation": 8900,
+      "medianAge": 26,
+      "medianIncome": 68000,
+      "educationLevel": "Graduate",
+      "familyHouseholds": 600
+    },
+    "safety": {
+      "crimeRate": 14.2,
+      "safetyRating": 7.8,
+      "policeStations": 2
+    },
+    "housing": {
+      "medianHomePrice": 720000,
+      "medianRent": 2600,
+      "homeOwnershipRate": 30
+    },
+    "education": {
+      "schoolRating": 9.2,
+      "schoolsNearby": 4,
+      "universitiesNearby": 5
+    },
+    "transportation": {
+      "publicTransitScore": 9.2,
+      "walkabilityScore": 9.0,
+      "bikeScore": 8.8
+    },
+    "amenities": {
+      "restaurants": 48,
+      "groceryStores": 6,
+      "parks": 3,
+      "hospitals": 3,
+      "shoppingCenters": 4
+    },
+    "lifestyle": {
+      "nightlifeScore": 8.0,
+      "familyFriendlyScore": 6.0,
+      "diversityScore": 8.5
+    },
+    "costOfLiving": {
+      "overallIndex": 190,
+      "groceryIndex": 130,
+      "housingIndex": 240,
+      "utilitiesIndex": 115
+    },
+    "description": "A student-friendly neighborhood with excellent educational institutions, vibrant cultural scene, and strong public transportation. Ideal for students and academics."
+  },
+  {
+    "name": "Nature's Edge",
+    "city": "Seattle",
+    "state": "WA",
+    "zipCode": "98101",
+    "coordinates": {
+      "latitude": 47.6062,
+      "longitude": -122.3321
+    },
+    "demographics": {
+      "totalPopulation": 6500,
+      "medianAge": 38,
+      "medianIncome": 88000,
+      "educationLevel": "Bachelors",
+      "familyHouseholds": 1100
+    },
+    "safety": {
+      "crimeRate": 11.5,
+      "safetyRating": 8.5,
+      "policeStations": 1
+    },
+    "housing": {
+      "medianHomePrice": 680000,
+      "medianRent": 2500,
+      "homeOwnershipRate": 50
+    },
+    "education": {
+      "schoolRating": 8.0,
+      "schoolsNearby": 4,
+      "universitiesNearby": 2
+    },
+    "transportation": {
+      "publicTransitScore": 8.5,
+      "walkabilityScore": 8.8,
+      "bikeScore": 9.5
+    },
+    "amenities": {
+      "restaurants": 35,
+      "groceryStores": 5,
+      "parks": 8,
+      "hospitals": 2,
+      "shoppingCenters": 3
+    },
+    "lifestyle": {
+      "nightlifeScore": 6.5,
+      "familyFriendlyScore": 8.5,
+      "diversityScore": 7.8
+    },
+    "costOfLiving": {
+      "overallIndex": 175,
+      "groceryIndex": 120,
+      "housingIndex": 210,
+      "utilitiesIndex": 105
+    },
+    "description": "A nature-focused neighborhood with abundant green spaces, excellent outdoor recreation opportunities, and a strong environmental consciousness. Perfect for nature lovers and families."
+  },
+  {
+    "name": "Historic District",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zipCode": "19106",
+    "coordinates": {
+      "latitude": 39.9526,
+      "longitude": -75.1652
+    },
+    "demographics": {
+      "totalPopulation": 7200,
+      "medianAge": 34,
+      "medianIncome": 75000,
+      "educationLevel": "Bachelors",
+      "familyHouseholds": 900
+    },
+    "safety": {
+      "crimeRate": 16.8,
+      "safetyRating": 7.5,
+      "policeStations": 2
+    },
+    "housing": {
+      "medianHomePrice": 420000,
+      "medianRent": 1900,
+      "homeOwnershipRate": 45
+    },
+    "education": {
+      "schoolRating": 7.8,
+      "schoolsNearby": 3,
+      "universitiesNearby": 3
+    },
+    "transportation": {
+      "publicTransitScore": 8.8,
+      "walkabilityScore": 9.2,
+      "bikeScore": 8.0
+    },
+    "amenities": {
+      "restaurants": 38,
+      "groceryStores": 4,
+      "parks": 2,
+      "hospitals": 2,
+      "shoppingCenters": 3
+    },
+    "lifestyle": {
+      "nightlifeScore": 7.8,
+      "familyFriendlyScore": 6.8,
+      "diversityScore": 8.2
+    },
+    "costOfLiving": {
+      "overallIndex": 155,
+      "groceryIndex": 110,
+      "housingIndex": 180,
+      "utilitiesIndex": 100
+    },
+    "description": "A historic neighborhood with rich cultural heritage, beautiful architecture, and a vibrant community. Great for history enthusiasts and those who appreciate character."
+  },
+  {
+    "name": "Tech Hub",
+    "city": "Denver",
+    "state": "CO",
+    "zipCode": "80202",
+    "coordinates": {
+      "latitude": 39.7392,
+      "longitude": -104.9903
+    },
+    "demographics": {
+      "totalPopulation": 5800,
+      "medianAge": 30,
+      "medianIncome": 82000,
+      "educationLevel": "Bachelors",
+      "familyHouseholds": 700
+    },
+    "safety": {
+      "crimeRate": 13.5,
+      "safetyRating": 8.0,
+      "policeStations": 1
+    },
+    "housing": {
+      "medianHomePrice": 520000,
+      "medianRent": 2200,
+      "homeOwnershipRate": 40
+    },
+    "education": {
+      "schoolRating": 8.2,
+      "schoolsNearby": 3,
+      "universitiesNearby": 2
+    },
+    "transportation": {
+      "publicTransitScore": 7.5,
+      "walkabilityScore": 8.5,
+      "bikeScore": 9.0
+    },
+    "amenities": {
+      "restaurants": 32,
+      "groceryStores": 4,
+      "parks": 5,
+      "hospitals": 2,
+      "shoppingCenters": 3
+    },
+    "lifestyle": {
+      "nightlifeScore": 7.2,
+      "familyFriendlyScore": 7.5,
+      "diversityScore": 7.8
+    },
+    "costOfLiving": {
+      "overallIndex": 160,
+      "groceryIndex": 115,
+      "housingIndex": 190,
+      "utilitiesIndex": 105
+    },
+    "description": "A modern, tech-forward neighborhood with excellent outdoor recreation opportunities, growing tech scene, and balanced lifestyle amenities. Ideal for young professionals and outdoor enthusiasts."
+  },
+  {
+    "name": "Cultural Quarter",
+    "city": "Miami",
+    "state": "FL",
+    "zipCode": "33101",
+    "coordinates": {
+      "latitude": 25.7617,
+      "longitude": -80.1918
+    },
+    "demographics": {
+      "totalPopulation": 6800,
+      "medianAge": 33,
+      "medianIncome": 68000,
+      "educationLevel": "Bachelors",
+      "familyHouseholds": 850
+    },
+    "safety": {
+      "crimeRate": 19.5,
+      "safetyRating": 6.8,
+      "policeStations": 2
+    },
+    "housing": {
+      "medianHomePrice": 480000,
+      "medianRent": 2000,
+      "homeOwnershipRate": 35
+    },
+    "education": {
+      "schoolRating": 7.5,
+      "schoolsNearby": 3,
+      "universitiesNearby": 2
+    },
+    "transportation": {
+      "publicTransitScore": 6.5,
+      "walkabilityScore": 7.8,
+      "bikeScore": 7.5
+    },
+    "amenities": {
+      "restaurants": 45,
+      "groceryStores": 5,
+      "parks": 2,
+      "hospitals": 2,
+      "shoppingCenters": 4
+    },
+    "lifestyle": {
+      "nightlifeScore": 9.2,
+      "familyFriendlyScore": 5.8,
+      "diversityScore": 9.5
+    },
+    "costOfLiving": {
+      "overallIndex": 170,
+      "groceryIndex": 125,
+      "housingIndex": 200,
+      "utilitiesIndex": 110
+    },
+    "description": "A vibrant, culturally diverse neighborhood with excellent nightlife, diverse dining options, and a strong sense of community. Perfect for those who enjoy a lively, multicultural environment."
+  }
+] 
